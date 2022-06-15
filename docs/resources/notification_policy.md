@@ -119,6 +119,7 @@ The following arguments are supported:
 <a id="nestedblock--alert-type-http-alert-origin-error"></a>
 **Nested schema for `http_alert_origin_error`**
 
+
 - `zones` - (Optional) A list of zone identifiers.
 - `slo` - (Optional) A numerical limit. Example: `"99.9"`
 
